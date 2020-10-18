@@ -1,11 +1,10 @@
 ### Hi there, I'm Erik 👋
 
 ## I'm a Developer, Brother, GameMaster, and Teacher!
-- 🔭 I’m currently working on a [d100][website]!
+- 🔭 I’m currently working on a [d100][website]!co
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to woodwork and play piano / trumpet
+- ⚡  In my freetime I love woodworking, practicing piano and automating my life with arduinos!
 
 ### Connect with me:
 
